@@ -39,7 +39,7 @@ Must not be empty and should accept only letters (no numbers or special characte
 Must be a valid email address format (e.g., example@email.com).
 
 ### 3. Phone Number Field: 
-Must be a valid phone number format (e.g., XXX-XXXXXXX).
+Must be a valid phone number format (e.g., XXX-XXX-XXXX).
    
 ### 4. Address Field: 
 Must not be empty and should have a minimum length of characters.
