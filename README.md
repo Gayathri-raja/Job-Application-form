@@ -2,14 +2,14 @@
 
 # Client-Side Form Validation for a Job Application Website
 
-## Objective: 
+## Objective
 
 Design and implement a robust client-side form validation system using 
 JavaScript for a job application website. The goal is to enhance user experience by 
 providing real-time feedback on the validity of input data and ensuring that all 
 submitted data meets specified criteria.
 
-Features:
+## Features
 
 1. User-Friendly Interface: The form should provide clear feedback to users 
 about any validation errors and how to correct them.
@@ -25,7 +25,7 @@ fields are valid.
 disabilities, such as through screen readers.
 
 
-Rules & Constraints:
+## Rules & Constraints:
 
 1. Name Field: Must not be empty and should accept only letters (no numbers 
 or special characters).
