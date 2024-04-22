@@ -34,10 +34,14 @@ disabilities, such as through screen readers.
 
 1. Name Field: Must not be empty and should accept only letters (no numbers 
 or special characters).
+
 2. Email Field: Must be a valid email address format (e.g., 
 example@email.com).
+
 3. Phone Number Field: Must be a valid phone number format (e.g., XXX-XXXXXXX).
+   
 4. Address Field: Must not be empty and should have a minimum length of 
 characters.
+
 5. Resume Upload: Only accept files with specific extensions (e.g., .pdf, .docx) 
 and limit the file size to a maximum of 5 MB.
