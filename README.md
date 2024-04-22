@@ -2,7 +2,7 @@
 
 # Client-Side Form Validation for a Job Application Website
 
-Objective: 
+## Objective: 
 
 Design and implement a robust client-side form validation system using 
 JavaScript for a job application website. The goal is to enhance user experience by 
