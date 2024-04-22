@@ -11,7 +11,8 @@ submitted data meets specified criteria.
 
 ## Features
 
-1. User-Friendly Interface: The form should provide clear feedback to users 
+### 1. User-Friendly Interface: 
+The form should provide clear feedback to users 
 about any validation errors and how to correct them.
 
 2. Real-Time Validation: Validation should occur as users interact with the 
