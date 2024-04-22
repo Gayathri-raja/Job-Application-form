@@ -13,14 +13,19 @@ submitted data meets specified criteria.
 
 1. User-Friendly Interface: The form should provide clear feedback to users 
 about any validation errors and how to correct them.
+
 2. Real-Time Validation: Validation should occur as users interact with the 
 form, providing immediate feedback on the validity of their input.
+
 3. Comprehensive Validation Rules: Validate various form fields including 
 name, email, phone number, address, and resume upload.
+
 4. Custom Error Messages: Display customized error messages for different 
 types of validation errors to guide users effectively.
+
 5. Submit Button State: The submit button should remain disabled until all form 
 fields are valid.
+
 6. Accessibility: Ensure that the validation feedback is accessible to users with 
 disabilities, such as through screen readers.
 
